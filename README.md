@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **divit.patidar@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XFflapJKAkUJK-GXP4_XW4pOZ37cabFFFdAYJRTMA18/edit?usp=sharing](https://docs.google.com/document/d/1XFflapJKAkUJK-GXP4_XW4pOZ37cabFFFdAYJRTMA18/edit?usp=sharing)
+- 📄 [View my resume](https://docs.google.com/document/d/1XFflapJKAkUJK-GXP4_XW4pOZ37cabFFFdAYJRTMA18/edit?usp=sharing)
 
 - ⚡ Fun fact **I do not start coding without a coffee**
 
