@@ -1,3 +1,4 @@
+[![MasterHead](hhttps://64.media.tumblr.com/37f3472ec8fde8e2553bc69057b5d8ce/tumblr_nk0j2goAXr1rd6gypo1_500.gif)
 <h1 align="center">Hi 👋, I'm Divit Patidar</h1>
 <h3 align="center">A software Enginner who builds projects like a story</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
