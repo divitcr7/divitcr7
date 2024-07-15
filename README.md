@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Instagram tool for influencers**
 
-- 💬 Ask me about **React, Next, Gsap, AWS**
+- 💬 Ask me about **React, Next, .Net, AWS. CI/CD**
 
 - 📫 How to reach me **divit.patidar@gmail.com**
 
