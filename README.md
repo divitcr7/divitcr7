@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divitcr7&label=Profile%20views&color=0e75b6&style=flat" alt="divitcr7" /> </p>
 
-- 🔭 I’m currently working on **Instagram tool for influencers**
+- 🔭 I’m currently working on **Property Tech - AI Leasing Decision system**
 
 - 💬 Ask me about **React, Next, .Net, AWS. CI/CD**
 
 - 📫 How to reach me **divit.patidar@gmail.com**
-
-- 📄 [View my resume](https://docs.google.com/document/d/1XFflapJKAkUJK-GXP4_XW4pOZ37cabFFFdAYJRTMA18/edit?usp=sharing)
 
 - ⚡ Fun fact **I have a habit of doodling circuit diagrams during brainstorming sessions. You never know when inspiration will strike!**
 
