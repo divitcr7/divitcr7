@@ -43,23 +43,29 @@
 
 <br/>
 
-### 🔥 Commit Streak & Consistency
+### 🚀 Featured Project — PAP-FE-B2C
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divitcr7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/divitcr7/PAP-FE-B2C">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divitcr7&repo=PAP-FE-B2C&theme=tokyonight&hide_border=true" alt="PAP-FE-B2C" />
+  </a>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/t/divitcr7/PAP-FE-B2C?style=for-the-badge&label=Total%20Commits&color=7957d5&logo=git&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/github/last-commit/divitcr7/PAP-FE-B2C?style=for-the-badge&color=70a5fd&logo=github&logoColor=white" alt="Last Commit" />
+  <img src="https://img.shields.io/github/contributors/divitcr7/PAP-FE-B2C?style=for-the-badge&color=38bdae&logo=githubsponsors&logoColor=white" alt="Contributors" />
+</p>
 
-### 📈 Contribution Activity
+<p align="center">
+  <img src="https://img.shields.io/github/created-at/divitcr7/PAP-FE-B2C?style=for-the-badge&label=Building%20Since&color=fc801d&logo=github&logoColor=white" alt="Repo Created" />
+  <img src="https://img.shields.io/github/commit-activity/m/divitcr7/PAP-FE-B2C?style=for-the-badge&label=Commits%2FMonth&color=e8417a&logo=git&logoColor=white" alt="Monthly Commits" />
+  <img src="https://img.shields.io/github/repo-size/divitcr7/PAP-FE-B2C?style=for-the-badge&color=0e75b6&logo=files&logoColor=white" alt="Repo Size" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=divitcr7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divitcr7&theme=tokyonight" alt="Contribution Timeline" />
-</p>
-
-<br/>
 
 ### 📊 GitHub Stats
 <p align="center">
